@@ -1,0 +1,15 @@
+C:\Users\Gustavo\source\repos\ExplicacaoMetodos\ExplicacaoMetodos\bin\Debug\net6.0\ExplicacaoMetodos.exe
+C:\Users\Gustavo\source\repos\ExplicacaoMetodos\ExplicacaoMetodos\bin\Debug\net6.0\ExplicacaoMetodos.deps.json
+C:\Users\Gustavo\source\repos\ExplicacaoMetodos\ExplicacaoMetodos\bin\Debug\net6.0\ExplicacaoMetodos.runtimeconfig.json
+C:\Users\Gustavo\source\repos\ExplicacaoMetodos\ExplicacaoMetodos\bin\Debug\net6.0\ExplicacaoMetodos.dll
+C:\Users\Gustavo\source\repos\ExplicacaoMetodos\ExplicacaoMetodos\bin\Debug\net6.0\ExplicacaoMetodos.pdb
+C:\Users\Gustavo\source\repos\ExplicacaoMetodos\ExplicacaoMetodos\obj\Debug\net6.0\ExplicacaoMetodos.csproj.AssemblyReference.cache
+C:\Users\Gustavo\source\repos\ExplicacaoMetodos\ExplicacaoMetodos\obj\Debug\net6.0\ExplicacaoMetodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\source\repos\ExplicacaoMetodos\ExplicacaoMetodos\obj\Debug\net6.0\ExplicacaoMetodos.AssemblyInfoInputs.cache
+C:\Users\Gustavo\source\repos\ExplicacaoMetodos\ExplicacaoMetodos\obj\Debug\net6.0\ExplicacaoMetodos.AssemblyInfo.cs
+C:\Users\Gustavo\source\repos\ExplicacaoMetodos\ExplicacaoMetodos\obj\Debug\net6.0\ExplicacaoMetodos.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\source\repos\ExplicacaoMetodos\ExplicacaoMetodos\obj\Debug\net6.0\ExplicacaoMetodos.dll
+C:\Users\Gustavo\source\repos\ExplicacaoMetodos\ExplicacaoMetodos\obj\Debug\net6.0\refint\ExplicacaoMetodos.dll
+C:\Users\Gustavo\source\repos\ExplicacaoMetodos\ExplicacaoMetodos\obj\Debug\net6.0\ExplicacaoMetodos.pdb
+C:\Users\Gustavo\source\repos\ExplicacaoMetodos\ExplicacaoMetodos\obj\Debug\net6.0\ExplicacaoMetodos.genruntimeconfig.cache
+C:\Users\Gustavo\source\repos\ExplicacaoMetodos\ExplicacaoMetodos\obj\Debug\net6.0\ref\ExplicacaoMetodos.dll
