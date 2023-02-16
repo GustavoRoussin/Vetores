@@ -2,9 +2,7 @@
 {
     public class Main
     {
-        // modificado de acesso "public"
-        // retorno do método "void, int, string"
-        // assinatura é o chamador do método "Start"
+        
         public void Start()
         {
             Menu();
@@ -17,7 +15,7 @@
             while (opcao != 0)
             {
                 Console.WriteLine("Escolha uma opção:");
-                Console.WriteLine("Exercício 1 - Descubra o maior número entre um grupo de números reais.");
+                Console.WriteLine("Exercício 1 - Descubra o maior número dentre um grupo de números reais.");
                 Console.WriteLine("Exercício 2 - Em um conjunto de números, descubra quantos e quais são os números pares");
                 Console.WriteLine("Exercício 3 - Preencha dois vetores diferentes e some os valores de ambos em um novo vetor");
                 Console.WriteLine("Exercício 4 - De um grupo de números reais, descubra a média dos números inseridos e quais estão abaixo da média");
@@ -433,3 +431,4 @@
         }
     }
 }
+
